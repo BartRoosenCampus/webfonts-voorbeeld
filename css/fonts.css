@@ -1,0 +1,47 @@
+@font-face {
+    font-family: hurtmoldregular;
+    src: url("fonts/hurtmoldregular.ttf");
+}
+
+@font-face {
+    font-family: fatboyslim;
+    src: url("fonts/fbsbltc.ttf");
+}
+
+@font-face {
+    font-family: monof55;
+    src: url("fonts/monof55.ttf");
+}
+
+@font-face {
+    font-family: blacklist;
+    src: url("fonts/TheBlacklist.ttf");
+}
+
+@font-face {
+    font-family: roboto;
+    src: url("fonts/roboto/Roboto-Thin.ttf");
+}
+
+
+.hurtmoldregular {
+    font-family: hurtmoldregular, sans-serif;
+}
+
+.fatboyslim {
+    font-family: fatboyslim, sans-serif;
+}
+
+.blacklist {
+    font-family: blacklist, sans-serif;
+    font-size: 1.5em;
+}
+
+.monof {
+    font-family: monof55, sans-serif;
+}
+
+.roboto {
+    font-family: roboto, sans-serif;
+    font-size: 4em;
+}

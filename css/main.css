@@ -1,0 +1,82 @@
+* {
+    font-family: monospace, sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+}
+
+p, li, .footer {
+    padding: .3em 0;
+    margin-top: .5em;
+    margin-bottom: .5em;
+    font-size: 1.2rem;
+}
+
+.foto-example {
+    padding: 1%;
+    background-color: whitesmoke;
+    margin-top: .5em;
+}
+
+.foto-example > img {
+    max-width: 100%;
+}
+
+.title, .footer {
+    font-size: 5rem;
+    color: orangered;
+    padding: .5em;
+    background-color: floralwhite;
+    text-align: center;
+}
+
+.title {
+    max-height: 2em;
+}
+
+.footer {
+    font-size: 1rem;
+    padding: 2em;
+}
+
+h3 {
+    font-family: blacklist, sans-serif;
+    font-size: 2rem;
+    color: orangered;
+    padding: 1em 0 0 0;
+}
+
+a {
+    font-family: inherit;
+    color: orange;
+    text-decoration: none;
+    font-size: inherit;
+    background-color: inherit;
+}
+
+a:hover {
+    color: orangered;
+}
+
+.content {
+    width: 60%;
+    margin: 0 auto;
+    padding: 1em 1em;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+li {
+    background: url('../img/link.png') no-repeat left top;
+    padding-top: .5em;
+    padding-left: 4em;
+}
+
+.title, .footer {
+    -webkit-box-shadow: 0 0 50px 2px #2a2a2a;
+    box-shadow: 0 0 50px 2px #2a2a2a;
+}
