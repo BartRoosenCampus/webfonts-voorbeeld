@@ -75,8 +75,3 @@ li {
     padding-top: .5em;
     padding-left: 4em;
 }
-
-.title, .footer {
-    -webkit-box-shadow: 0 0 50px 2px #2a2a2a;
-    box-shadow: 0 0 50px 2px #2a2a2a;
-}
