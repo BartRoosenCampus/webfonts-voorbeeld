@@ -37,6 +37,7 @@ p, li, .footer {
 .footer {
     font-size: 1rem;
     padding: 2em;
+    margin-bottom: 0;
 }
 
 h3 {
